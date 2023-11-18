@@ -19,4 +19,4 @@ The button `Capture Image` captures the current screen and saves it to `Image Re
 ### Results
 | Tank Experiment Results | Person Experiment Results |
 | ------------- | ------------- |
-| ![tank_tracking](https://github.com/KennyChen880127/YOLOv8-Tank-Tracking/assets/99500847/084e3b85-3a5f-4a3a-b92d-584c6a4912f2) | ![person_tracking](https://github.com/KennyChen880127/YOLOv8-Tank-Tracking/assets/99500847/c2ee43c3-1695-47c1-bba6-c89f64b0dae3) |
+| ![tank_tracking](![tank_tracking](https://github.com/KennyChen880127/YOLOv8-Tank-Tracking/assets/99500847/50a67e71-02c3-4aac-927b-54815b7da0a2)) | ![person_tracking](![person_tracking](https://github.com/KennyChen880127/YOLOv8-Tank-Tracking/assets/99500847/b3dce3f5-f321-42be-8d26-a7fd24068551)) |
