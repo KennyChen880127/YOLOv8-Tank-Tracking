@@ -1,7 +1,7 @@
 
 
 
-# YOLOv8-Tank-Tracking
+# YOLOv8 Tank Tracking
 In the modern battlefield environment, tank identification and tracking are of paramount importance for strategic intelligence and operational efficiency. Our laboratory is dedicated to developing advanced automatic tank identification and tracking technology, utilizing YOLOv8 object detection for tank recognition. However, due to the presence of both friendly and enemy tanks on the battlefield, this experiment incorporates the [tracking](https://docs.ultralytics.com/modes/track/) functionality of YOLOv8, combined with a user-friendly interface design. This allows for the continuous tracking of enemy tanks by specifying their IDs using a mouse.) functionality of YOLOv8, combined with a user-friendly interface design. This allows for the continuous tracking of enemy tanks by specifying their IDs using a mouse.
 
 P.S.: You can also use [COCO dataset](https://cocodataset.org/#home) or train on your prepared dataset for ID tracking.
